@@ -1,0 +1,4 @@
+We've stolen some intel and source code about some hacktivist 
+group plotting something big against the cyber cyclones. Problem is, they 
+used some kind of encoding scheme. Decode the chat log and figure out 
+what they're plotting so we can prepare.
